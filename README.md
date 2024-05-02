@@ -15,7 +15,10 @@
             color: #333;
         }
         .toggle-button {
-            margin-bottom: 10px;
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            z-index: 999;
         }
     </style>
 </head>
