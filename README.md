@@ -6,53 +6,54 @@
     <title>Platres 3on3 Basketball Tournament</title>
     <style>
         /* Add your CSS styles here */
-        body {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
+        img {
+            width: 100%;
+            height: auto;
         }
-        #language-switcher {
+        .content {
+            margin: 20px;
+            font-family: Arial, sans-serif;
+            color: #333;
+        }
+        .toggle-button {
             position: fixed;
             top: 10px;
             right: 10px;
         }
-        #language-switcher img {
-            width: 30px;
-            height: auto;
-            margin-left: 5px;
-            cursor: pointer;
-        }
-        .content {
-            margin: 20px;
-            color: #333;
-        }
     </style>
 </head>
 <body>
-    <div id="language-switcher">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2560px-Flag_of_Greece.svg.png" alt="Greek Flag" onclick="switchLanguage('greek')">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png" alt="UK Flag" onclick="switchLanguage('english')">
+    <img src="background5.png" alt="Background Image">
+    <div class="content" id="english-content">
+        <h1>Platres 3on3 Basketball Tournament</h1>
+        <ul>
+            <li>Date: 2 June 2024</li>
+            <li>Location: <a href="https://platresarena.com/">Platres Arena</a>, Platres.</li>
+        </ul>
+        <p>
+            After a successful year, Platres 3on3 returns to the Panos Platres basketball court for another event, with the main goal of supporting the Little Heroes Foundation and Europa Donna Cyprus, two non-profit organizations that provide assistance and support to children battling leukemia, and to women and men fighting breast cancer.
+        </p>
+        <!-- English content continues... -->
     </div>
 
-    <div class="content" id="english-content" style="display: none;">
-        <!-- English content here -->
+    <div class="content" id="greek-content" style="display: none;">
+        <h1>Τουρνουά Μπάσκετ 3on3 Platres</h1>
+        <!-- Greek content continues... -->
     </div>
 
-    <div class="content" id="greek-content">
-        <!-- Greek content here -->
-    </div>
+    <button class="toggle-button" onclick="toggleLanguage()">Toggle Language</button>
 
     <script>
-        function switchLanguage(language) {
+        function toggleLanguage() {
             var englishContent = document.getElementById('english-content');
             var greekContent = document.getElementById('greek-content');
 
-            if (language === 'greek') {
-                englishContent.style.display = 'none';
-                greekContent.style.display = 'block';
-            } else {
+            if (englishContent.style.display === 'none') {
                 englishContent.style.display = 'block';
                 greekContent.style.display = 'none';
+            } else {
+                englishContent.style.display = 'none';
+                greekContent.style.display = 'block';
             }
         }
     </script>
