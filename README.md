@@ -27,7 +27,7 @@
 </head>
 <body>
     <img src="background5.png" alt="Background Image">
-     <h5>Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.</h5>
+    <h5>When love for fellow human beings and basketball become an inspiration for a great celebration.</h5>
     <div class="content" id="english-content">
         <h1>Platres 3on3 Basketball Tournament</h1>
         <ul>
@@ -60,7 +60,7 @@
             Instagram: <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a>
         </p>
     </div>
-
+    <h5>Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.</h5>
     <div class="content" id="greek-content" style="display: none;">
         <h1>Platres 3on3 Basketball Tournament</h1>
         <ul>
