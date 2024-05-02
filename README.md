@@ -20,10 +20,16 @@
             right: 10px;
             z-index: 999;
         }
+        .center-text {
+            text-align: justify;
+        }
     </style>
 </head>
 <body>
     <img src="background5.png" alt="Background Image">
+    <div class="center-text">
+    <h5>Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.</h5>
+    </div>
     <div class="content" id="english-content">
         <h1>Platres 3on3 Basketball Tournament</h1>
         <ul>
