@@ -56,7 +56,7 @@
     </div>
 
     <div class="content" id="greek-content" style="display: none;">
-        <h1>Τουρνουά Μπάσκετ 3on3 Platres</h1>
+        <h1>Platres 3on3 Basketball Tournament</h1>
         <ul>
             <li>Ημερομηνία: 2 Ιουνίου 2024</li>
             <li>Τοποθεσία: <a href="https://platresarena.com/">Αρένα Πλάτρες</a>, Πλάτρες.</li>
@@ -88,7 +88,7 @@
         </p>
     </div>
 
-    <button class="toggle-button" onclick="toggleLanguage()">Toggle Language</button>
+    <button class="toggle-button" onclick="toggleLanguage()"> GR / ENG </button>
 
     <script>
         function toggleLanguage() {
