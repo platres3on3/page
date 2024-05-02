@@ -35,7 +35,7 @@
             <li>Location: <a href="https://platresarena.com/">Platres Arena</a>, Platres.</li>
         </ul>
         <p>
-            After a successful year, Platres 3on3 returns to the Panos Platres basketball court for another event, with the main goal of supporting the Little Heroes Foundation and Europa Donna Cyprus, two non-profit organizations that provide assistance and support to children battling leukemia, and to women and men fighting breast cancer.
+            After a successful year, Platres 3on3 returns to the Panos Platres basketball court for another event, with the main goal of supporting the Little Heroes Foundation and <span style="color: #CB5996; font-weight: bold;">Europa Donna Cyprus</span>, two non-profit organizations that provide assistance and support to children battling leukemia, and to women and men fighting breast cancer.
         </p>
         <p>
             This initiative is led by a small team of young volunteers, who, with enthusiasm, dedication, and dynamism, have started this relentless effort. Their goal is to give both young and old basketball fans the opportunity to actively support the efforts of our fellow citizens against cancer, and to highlight that young people can be pillars in the long-term and altruistic efforts of these organizations.
@@ -68,7 +68,7 @@
             <li>Τοποθεσία: <a href="https://platresarena.com/">Platres Arena</a>, Πλάτρες.</li>
         </ul>
         <p>
-            Μετά από μια επιτυχημένη χρονιά, το Platres 3on3 επιστρέφει στο γήπεδο των Πάνω Πλατρών για μια ακόμη διοργάνωση, με κύριο στόχο την υποστήριξη του Ιδρύματος Μικροί Ήρωες και του Europa Donna Cyprus, δύο μη κερδοσκοπικών οργανισμών οι οποίοι παρέχουν βοήθεια και στήριξη σε παιδιά τα οποία παλεύουν με την λευχαιμία, σε γυναίκες και άντρες οι οποίοι αγωνίζονται κατά του καρκίνου του μαστού.
+            Μετά από μια επιτυχημένη χρονιά, το Platres 3on3 επιστρέφει στο γήπεδο των Πάνω Πλατρών για μια ακόμη διοργάνωση, με κύριο στόχο την υποστήριξη του Ιδρύματος Μικροί Ήρωες και του <span style="color: #CB5996; font-weight: bold;">Europa Donna Cyprus</span>, δύο μη κερδοσκοπικών οργανισμών οι οποίοι παρέχουν βοήθεια και στήριξη σε παιδιά τα οποία παλεύουν με την λευχαιμία, σε γυναίκες και άντρες οι οποίοι αγωνίζονται κατά του καρκίνου του μαστού.
         </p>
         <p>
             Η πρωτοβουλία αυτή ηγείται από μικρή ομάδα νέων εθελοντών, οι οποίοι, με ενθουσιασμό, αφοσίωση και δυναμισμό, ξεκίνησαν αυτή την άοκνη προσπάθεια. Στόχος τους είναι αφενός να δώσουν την ευκαιρία σε μικρούς και μεγάλους φίλους της καθαλόσφαιρας να στηρίξουν έπρακτα την προσπάθεια των συνανθρώπων μας κατά του καρκίνου και αφετέρου να αναδείξουν ότι οι νέοι μπορούν να αποτελέσουν στηλοβάτες στην μακροχρόνια και αλτρουιστική προσπάθεια αυτών των οργανισμών.
