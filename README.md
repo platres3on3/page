@@ -27,7 +27,6 @@
 </head>
 <body>
     <img src="background5.png" alt="Background Image">
-    <h5>When love for fellow human beings and basketball become an inspiration for a great celebration.</h5>
     <div class="content" id="english-content">
         <h5>When love for fellow human beings and basketball become an inspiration for a great celebration.</h5>
         <h1>Platres 3on3 Basketball Tournament</h1>
